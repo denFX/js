@@ -7,4 +7,4 @@ answer [3] = prompt("Wie lang is bei dir?", "20")
 
 console.log (answer[1]);
 
-<h2>hello word</h2>
+<h2>Hello word!</h2>
