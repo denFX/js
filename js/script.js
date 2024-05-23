@@ -6,3 +6,5 @@ answer [2] = prompt("Nachname?")
 answer [3] = prompt("Wie lang is bei dir?", "20")
 
 console.log (answer[1]);
+
+<h2>hello word</h2>
