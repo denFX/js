@@ -27,3 +27,35 @@ const   a = prompt("Last Film", ""),
 personalMovieDB.movies[a] = b;
 personalMovieDB.movies[c] = d;
 console.log(personalMovieDB);
+
+
+const aa = 50;
+
+if (aa <= 40) {
+    console.log("ist zu wenig!");
+} else if (aa >= 50) {
+    console.log("ist zu viel");
+}
+else 
+console.log("passt!");
+
+const num = 54;
+
+(num == "50") ?  console.log("ja"): console.log("nein");
+
+
+switch (num) {
+    case 50:
+        console.log("nein");
+        break;
+    case 51:
+        console.log("nein");
+        break;
+    case 52:
+        console.log("ja");
+        break;
+    default:
+        console.log("Perfeckt");
+        break;
+}
+
